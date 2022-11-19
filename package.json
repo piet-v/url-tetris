@@ -10,7 +10,7 @@
     "braille-encode": "^1.0.4",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "tetris-engine": "https://github.com/piet-v/tetris-engine.git",
     "typescript": "3.6.4"
   },
